@@ -1,4 +1,4 @@
-The homeworks solutions of:
+The homework solutions of:
 
 - Aigars Langins
 - Ludovico Calabrese
